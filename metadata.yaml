@@ -1,0 +1,28 @@
+_repo: Separation-and-Serviceor-Thoughts-on-Numbers-VI-VII._26384
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taylor, James Hudson
+    alias: Taylor, J. Hudson (James Hudson)
+    birthdate: 1832
+    deathdate: 1905
+    gutenberg_agent_id: '25841'
+    url: http://www.gutenberg.org/2009/agents/25841
+    wikipedia: http://en.wikipedia.org/wiki/Hudson_Taylor
+description: ''
+gutenberg_issued: '2008-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Numbers VI-VII -- Commentaries'
+- !lcc 'BS'
+title: Separation and Service; or, Thoughts on Numbers VI, VII.
+url: http://www.gutenberg.org/ebooks/26384
